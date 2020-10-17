@@ -1,4 +1,4 @@
-declare module '@bootstrap-styled/v4' {
+declare module 'bt-styled-v4' {
   import {
     getGlobalStyles,
     getGlobalStyleNoBootstrapProvider

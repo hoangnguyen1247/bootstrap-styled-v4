@@ -1,9 +1,9 @@
 You can import individual components, it will work.
  
-To get all the bootstrap class utilities and use a different theme, you must install `@bootstrap-styled/provider` package.
+To get all the bootstrap class utilities and use a different theme, you must install `bt-styled-provider` package.
 
 ```bash
-npm install --save @bootstrap-styled/provider
+npm install --save bt-styled-provider
 ```
 
 Wrap your react application into it.
@@ -11,7 +11,7 @@ Wrap your react application into it.
 ```js static
 import React from 'react';
 import { render } from 'react-dom';
-import BootstrapProvider from '@bootstrap-styled/provider';
+import BootstrapProvider from 'bt-styled-provider';
 
 render(document.getElementById('app'), (
   <BootstrapProvider theme={{ '$brand-danger': 'green' }}>

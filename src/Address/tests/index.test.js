@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import { mount } from 'enzyme';
-import BootstrapProvider from '@bootstrap-styled/provider/lib/BootstrapProvider';
+import BootstrapProvider from 'bt-styled-provider/lib/BootstrapProvider';
 import Address from '../index';
 
 const children = (<h1>Test</h1>);

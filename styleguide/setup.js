@@ -1,4 +1,4 @@
-import BootstrapProvider from '@bootstrap-styled/provider/lib/BootstrapProvider';
+import BootstrapProvider from 'bt-styled-provider/lib/BootstrapProvider';
 import Col from '../src/Col';
 import Label from '../src/Label';
 import Option from '../src/Option';

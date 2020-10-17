@@ -3,7 +3,7 @@
  */
 import React from 'react';
 import { mount } from 'enzyme';
-import BootstrapProvider from '@bootstrap-styled/provider/lib/BootstrapProvider';
+import BootstrapProvider from 'bt-styled-provider/lib/BootstrapProvider';
 import Accordion from '../Accordion';
 import AccordionGroup from '../AccordionGroup';
 import Card from '../../Cards/Card';

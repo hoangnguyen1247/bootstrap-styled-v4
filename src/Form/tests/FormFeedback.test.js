@@ -1,6 +1,6 @@
 import { mount } from 'enzyme';
 import React from 'react';
-import BootstrapProvider from '@bootstrap-styled/provider/lib/BootstrapProvider';
+import BootstrapProvider from 'bt-styled-provider/lib/BootstrapProvider';
 import FormFeedback from '../FormFeedback';
 
 const children = (<h1>Test</h1>);

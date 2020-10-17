@@ -2,7 +2,7 @@
  * Testing our Mark component
  */
 
-import BootstrapProvider from '@bootstrap-styled/provider/lib/BootstrapProvider';
+import BootstrapProvider from 'bt-styled-provider/lib/BootstrapProvider';
 
 import { mount } from 'enzyme';
 import React from 'react';
